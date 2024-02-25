@@ -1,4 +1,4 @@
-package com.example.milkapp.codewithcal.au.calendarappexample;
+package com.example.milkapp.adapter;
 
 import android.view.LayoutInflater;
 import android.view.View;

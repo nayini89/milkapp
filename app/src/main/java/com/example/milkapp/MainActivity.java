@@ -12,7 +12,7 @@ import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 
-import com.example.milkapp.codewithcal.au.calendarappexample.CalendarAdapter;
+import com.example.milkapp.adapter.CalendarAdapter;
 
 import java.time.LocalDate;
 import java.time.YearMonth;

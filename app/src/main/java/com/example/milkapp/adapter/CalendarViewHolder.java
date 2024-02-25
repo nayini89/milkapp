@@ -1,4 +1,4 @@
-package com.example.milkapp.codewithcal.au.calendarappexample;
+package com.example.milkapp.adapter;
 
 import android.view.View;
 import android.widget.TextView;
@@ -13,7 +13,7 @@ public class CalendarViewHolder extends RecyclerView.ViewHolder implements View.
     public final TextView dayOfMonth,newTextView;
     public final View view;
 
-    private final CalendarAdapter.OnItemListener onItemListener;
+    private final com.example.milkapp.adapter.CalendarAdapter.OnItemListener onItemListener;
     public CalendarViewHolder(@NonNull View itemView, CalendarAdapter.OnItemListener onItemListener)
     {
         super(itemView);
